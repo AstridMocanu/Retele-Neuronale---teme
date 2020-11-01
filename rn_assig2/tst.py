@@ -1,0 +1,1 @@
+print(max(enumerate([1,2,3,4,2,3,10,5,4]),key= lambda x: x[1]))
